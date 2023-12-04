@@ -8,5 +8,23 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "name": "userhub-server",
+  "version": "1.0.0",
+  "description": " UserHub Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Sidhartha/UserHub-Server.git"
+  },
+  "author": "Sidharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Sidhartha/UserHub-Server/issues"
+  },
+  "homepage": "https://github.com/R-Sidhartha/UserHub-Server#readme"
 }
